@@ -1,13 +1,13 @@
-Eugene, Wu WeiJie
-eugenewwj@gmail.com
-+65 9798 5397
+**Eugene, Wu WeiJie**  
+**eugenewwj@gmail.com**  
+**+65 9798 5397**  
 
-# Education
-## B.Eng. Computer Science
+### Education
+#### B.Eng. Computer Science
 **NTU**, Nanyang Technological University, Singapore
 - Network Security Elective Focus
 
-# Experience and Leadership
+### Experience and Leadership
 **Software Developer**, At Citibank N.A., Singapore
 - Software Developer - Equity OneRisk
     - Developed a micro service based execution platform.
@@ -32,7 +32,7 @@ eugenewwj@gmail.com
 - Improving and enhancing the user experience for the QA team.
 - Highlight: Python, Grafana, InfluxDB
 
-# Freelance Projects
+### Freelance Projects
 **Play United App**
 - React native mobile app for Play United customers, staffs and admins. In total about 12K over users. Host on AWS, available on Apple Store and Google Play Store.
 - Features: Royalty points, staff attendance marking based on location, HR payroll, real-time reporting, product management, stock management.
@@ -49,10 +49,10 @@ eugenewwj@gmail.com
 - Outstanding features are: Sales Tracking, Quick Quote, Real-time reporting
 - Highlight: ASP.net, Javascript, MS SQL
 
-# Skills
-**Programming Language:** Java, JavaScript, TypeScript, Python, C#, C, C++, HTML, CSS, PHP Framework: React, React Native, NativeScript, Node.js, Express.js, Laravel, .NET,
-**Operating Systems:** Windows, Windows server, Linux, macOS
-**Database System:** InfluxDB, MongoDB, Couchbase, MySQL, SQLight, MSSQL
-**Cloud Platforms:** Alibaba, Azure, AWS
-**Language:** English, Mandarin
-**Other:** Communication Skills, Project Management skills
+### Skills
+**Programming Language:** Java, JavaScript, TypeScript, Python, C#, C, C++, HTML, CSS, PHP Framework: React, React Native, NativeScript, Node.js, Express.js, Laravel, .NET  
+**Operating Systems:** Windows, Windows server, Linux, macOS  
+**Database System:** InfluxDB, MongoDB, Couchbase, MySQL, SQLight, MSSQL  
+**Cloud Platforms:** Alibaba, Azure, AWS  
+**Language:** English, Mandarin  
+**Other:** Communication Skills, Project Management skills  
