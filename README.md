@@ -38,7 +38,7 @@
 - Features: Royalty points, staff attendance marking based on location, HR payroll, real-time reporting, product management, stock management.
 - Ongoing Features: Online payment.
 - Highlight: React Native, MongoDB, Express, AWS
-- Project Demo: [iOS](https://apps.apple.com/sg/app/play-united/id1481755560) [Android](https://play.google.com/store/apps/details?id=com.playunited.memberapp)
+- Project Demo: [iOS](https://apps.apple.com/sg/app/play-united/id1481755560)      [Android](https://play.google.com/store/apps/details?id=com.playunited.memberapp)
 
 **Spa Management System**
 - Develop a web application for the spa to manage the bookings for Sharker Technology
